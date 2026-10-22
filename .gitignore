@@ -1,0 +1,13 @@
+# Downloaded audio and app state
+downloads/
+data/
+*.mp3
+*.m4a
+*.webm
+*.part
+.incomplete/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
